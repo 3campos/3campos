@@ -6,6 +6,6 @@ Hello there 👋
 -  Fun facts: 
   - 🗡 I participate in Japanese swordsmanship ("iaido") in my spare time.
   - 🐶 I have a puppy named Wanda (yes, named after Wanda Maximoff).
-- LinkedIn: linkedin.com/in/emilio-campos-a21b682b/
+- LinkedIn: linkedin.com/in/emilio-campos-jr
 
 See what I am working on below and let me know your thoughts. I'm always open to feedback!
