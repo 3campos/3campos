@@ -8,4 +8,4 @@ Hello there 👋
   - 🐶 I have a puppy named Wanda (yes, named after Wanda Maximoff).
 - LinkedIn: https://www.linkedin.com/in/emilio-campos-jr/
 
-See what I am working on below and let me know your thoughts. I'm always open to feedback!
+See what I am working on below!
