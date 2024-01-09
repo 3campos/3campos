@@ -8,6 +8,4 @@ Hello there 👋
 - LinkedIn: https://www.linkedin.com/in/emilio-campos-jr/
 - Portfolio: https://3campos.github.io/
 
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
 See what I am working on below!
