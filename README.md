@@ -4,7 +4,7 @@ Hello there 👋
 - Pronouns: he/him/his
 -  Fun facts: 
   - 🐶 I have a puppy named Wanda (yes, named after Wanda Maximoff).
-  - 🗡 I participate in Japanese swordsmanship ("iaido") and play video games 🎮 in my spare time.
+  - 🗡 I participate in Japanese swordsmanship ("iaido"), play video games 🎮, and watch Formula 1 racing 🏎️ in my spare time.
 - LinkedIn: https://www.linkedin.com/in/emilio-campos-jr/
 - Portfolio: https://3campos.github.io/
 
